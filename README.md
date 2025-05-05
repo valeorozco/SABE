@@ -1,2 +1,4 @@
-# SABE
-Data cleaning and first model creation on research related to cognitive health and self-perception in people above 60.
+# SABE (Salud Bienestar y Envejecimiento)
+This study serves as the foundation for a correlational analysis aimed at addressing factors that influence subjective memory and coherence—specifically, whether a person's self-assessment of memory accurately reflects their cognitive performance. This investigation was conducted using a database derived from a government-directed survey conducted in 2015, which explored the health, well-being, and aging of individuals aged 60 and older in Colombia. The survey considered a range of factors, including lifestyle, social adversities in early life, and cognitive and psychological variables. Participants completed several functional assessment tests, including the Barthel Index, Mini Mental State Examination, Yesavage Geriatric Depression Scale, and the Short Physical Performance Battery (SPPB), among others.
+The participants were selected through a probabilistic, clustered, stratified, and multistage design, encompassing individuals from both rural and urban areas of the country. All interviews in the survey were conducted face-to-face between April and September 2015. After data cleaning, the final sample size was 16,601 participants.
+
